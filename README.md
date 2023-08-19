@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-I am a Researcher at Harvard University
+I am a Postdoctoral Research Associate at Harvard University
 
 - 🔩 Working on: Causal Inference ∩ Machine Learning
 - 📫 How to reach me: fbargaglistoffi@hsph.harvard.edu
