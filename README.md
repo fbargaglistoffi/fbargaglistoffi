@@ -1,10 +1,17 @@
-### Hi there, you have found Falco 👋 
+## Hi there 👋 
 
-I am a Postdoctoral Researcher at Harvard University. In my work, I develop and combine data science methods in causal inference and artificial intelligence to address real-world problems in health and social sciences.
+I am a Researcher at Harvard University
 
-🌐 https://www.falcobargaglistoffi.com/
+🔩 Working on: Causal Inference ∩ Machine Learning
+📫 How to reach me: fbargaglistoffi@hsph.harvard.edu
+🌐 Website: [https://www.falcobargaglistoffi.com/](https://www.falcobargaglistoffi.com/)
 
-📫 fbargaglistoffi@hsph.harvard.edu
+### Selected Open Source Code and Projects
+- [Network Causal Tree](https://github.com/fbargaglistoffi/NetworkCausalTree)
+- [Causal Rule Ensemble](https://github.com/NSAPH-Software/CRE)
+- [Causal Rule Ensemble Applications](https://github.com/fbargaglistoffi/CRE_applications)
+- [Bayesian Causal Forest with Instrumental Variables](https://github.com/fbargaglistoffi/BCF-IV)
+
 
 <!--
 **fbargaglistoffi/fbargaglistoffi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
