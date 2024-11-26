@@ -1,8 +1,8 @@
 ## Hi there 👋 
 
-I am a Postdoctoral Research Associate at Harvard University
+I am an Assistant Professor at UCLA and Department Associate at Harvard University
 
-- 🔩 Working on: Causal Inference ∩ Machine Learning
+- 🔩 Working on: Causal inference ⋂ machine learning  ∧  (Health + Social) * Science
 - 📫 How to reach me: fbargaglistoffi@hsph.harvard.edu
 - 🌐 Website: [https://www.falcobargaglistoffi.com/](https://www.falcobargaglistoffi.com/)
 
