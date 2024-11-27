@@ -14,10 +14,6 @@ I am an Assistant Professor at UCLA and a Department Associate at Harvard Univer
 - [Bayesian Causal Forest with Instrumental Variables](https://github.com/fbargaglistoffi/BCF-IV)
 
 
-**fbargaglistoffi/fbargaglistoffi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](https://komarev.com/ghpvc/?username=fbargaglistoffi&color=blue)
-
-
 <!--
 **fbargaglistoffi/fbargaglistoffi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![](https://komarev.com/ghpvc/?username=fbargaglistoffi&color=blue)
