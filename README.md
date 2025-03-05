@@ -9,7 +9,6 @@ I am an Assistant Professor at UCLA and a Department Associate at Harvard Univer
 ### Selected Open Source Code and Projects
 - [Network Causal Tree](https://github.com/fbargaglistoffi/NetworkCausalTree)
 - [Causal Rule Ensemble](https://github.com/NSAPH-Software/CRE)
-- [Causal Rule Ensemble Applications](https://github.com/fbargaglistoffi/CRE_applications)
 - [Bayesian Nonparametrics for Heterogeneous Effects](https://github.com/dafzorzetto/HTEBayes)
 - [Bayesian Causal Forest with Instrumental Variables](https://github.com/fbargaglistoffi/BCF-IV)
 
