@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-I am an Assistant Professor at [UCLA]([https://www.falcobargaglistoffi.com/](https://ph.ucla.edu/about/faculty-staff-directory/falco-j-bargagli-stoffi)) and a Department Associate at [Harvard University](https://hsph.harvard.edu/profile/falco-joannes-bargagli-stoffi/)
+I am an Assistant Professor at [UCLA]([https://www.falcobargaglistoffi.com/](https://ph.ucla.edu/about/faculty-staff-directory/falco-j-bargagli-stoffi) and a Department Associate at [Harvard University](https://hsph.harvard.edu/profile/falco-joannes-bargagli-stoffi/)
 
 - 🔩 Working on: causal inference ⋂ machine learning  ∧  (health + social) * science
 - 📫 How to reach me: falco@ucla.edu
