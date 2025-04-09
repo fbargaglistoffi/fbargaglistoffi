@@ -1,8 +1,8 @@
 ## Hi there 👋 
 
-I am an Assistant Professor at UCLA and a Department Associate at Harvard University
+I am an Assistant Professor at [UCLA]([https://www.falcobargaglistoffi.com/](https://ph.ucla.edu/about/faculty-staff-directory/falco-j-bargagli-stoffi)) and a Department Associate at [Harvard University](https://hsph.harvard.edu/profile/falco-joannes-bargagli-stoffi/)
 
-- 🔩 Working on: Causal inference ⋂ machine learning  ∧  (Health + Social) * Science
+- 🔩 Working on: causal inference ⋂ machine learning  ∧  (health + social) * science
 - 📫 How to reach me: falco@ucla.edu
 - 🌐 Website: [https://www.falcobargaglistoffi.com/](https://www.falcobargaglistoffi.com/)
 
