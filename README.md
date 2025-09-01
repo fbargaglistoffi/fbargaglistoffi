@@ -11,7 +11,6 @@ I am an Assistant Professor at [UCLA](https://ph.ucla.edu/about/faculty-staff-di
 - [Causal Rule Ensemble](https://github.com/NSAPH-Software/CRE)
 - [Bayesian Nonparametrics for Heterogeneous Effects](https://github.com/dafzorzetto/HTEBayes)
 - [Bayesian Causal Forest with Instrumental Variables](https://github.com/fbargaglistoffi/BCF-IV)
-- [Causal Inference in Biostatistics](https://drive.google.com/drive/folders/1T5f4WTRZ7yEItObIRlpNNpYa2sUji8SC?usp=sharing)
 
 
 <!--
