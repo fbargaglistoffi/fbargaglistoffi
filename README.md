@@ -13,6 +13,11 @@ I am an Assistant Professor at [UCLA](https://ph.ucla.edu/about/faculty-staff-di
 - [Bayesian Causal Forest with Instrumental Variables](https://github.com/fbargaglistoffi/BCF-IV)
 
 
+![Falco's github stats](https://github-readme-stats.vercel.app/api?username=fbargaglistoffi&show_icons=true&count_private=true&theme=radical)
+<!--
+![](https://komarev.com/ghpvc/?username=fbargaglistoffi&color=blue)
+-->
+
 <!--
 **fbargaglistoffi/fbargaglistoffi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![](https://komarev.com/ghpvc/?username=fbargaglistoffi&color=blue)
