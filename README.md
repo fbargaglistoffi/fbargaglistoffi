@@ -25,13 +25,8 @@ I am an Assistant Professor at [UCLA](https://ph.ucla.edu/about/faculty-staff-di
 [![Falco's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fbargaglistoffi&theme=radical)](https://git.io/streak-stats)
 
 
-<!--
-![Falco's github stats](https://github-readme-stats.vercel.app/api?username=fbargaglistoffi&show_icons=true&count_private=true&theme=radical)
--->
-
-<!--
 ![](https://komarev.com/ghpvc/?username=fbargaglistoffi&color=blue)
--->
+
 
 <!--
 **fbargaglistoffi/fbargaglistoffi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
