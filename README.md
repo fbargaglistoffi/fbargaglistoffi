@@ -20,18 +20,18 @@ I am an Assistant Professor at [UCLA](https://ph.ucla.edu/about/faculty-staff-di
 [![Falco's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbargaglistoffi&hide=java,javascript,html,css,limbo&theme=radical&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<!--
+
 [![Falco's GitHub stats](https://github-readme-stats.vercel.app/api?username=fbargaglistoffi&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
 
 <!--
 [![Falco's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fbargaglistoffi&theme=radical)](https://git.io/streak-stats)
 -->
 
-
+<!--
 ![](https://komarev.com/ghpvc/?username=fbargaglistoffi&color=blue)
-
+-->
 
 <!--
 **fbargaglistoffi/fbargaglistoffi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
